@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake v1
 
 on:
   schedule:
